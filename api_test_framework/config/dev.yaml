@@ -1,0 +1,6 @@
+base_url: "https://jsonplaceholder.typicode.com"
+auth_type: null      # options: bearer | api_key | basic | null
+token: ""
+api_key: ""
+timeout: 30
+retries: 3

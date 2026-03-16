@@ -1,0 +1,6 @@
+base_url: "https://api.yourapp.com"
+auth_type: bearer
+token: ""            # set via API_TOKEN env var in CI secrets
+api_key: ""
+timeout: 20
+retries: 2

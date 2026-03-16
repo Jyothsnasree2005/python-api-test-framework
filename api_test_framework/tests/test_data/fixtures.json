@@ -1,0 +1,17 @@
+{
+  "valid_post": {
+    "title": "Sample Post Title",
+    "body": "This is the body of the sample post used in fixtures.",
+    "userId": 1
+  },
+  "invalid_post": {
+    "title": "",
+    "body": null,
+    "userId": "not-an-int"
+  },
+  "valid_user": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "age": 30
+  }
+}

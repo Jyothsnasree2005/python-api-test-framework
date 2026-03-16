@@ -1,0 +1,6 @@
+base_url: "https://staging-api.yourapp.com"
+auth_type: bearer
+token: ""            # set via API_TOKEN env var or .env
+api_key: ""
+timeout: 30
+retries: 3
